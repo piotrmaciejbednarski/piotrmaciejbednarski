@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZwajJ3ZmNrY2ZkY2NqY3R0dHJ2NGR6cmR5amJ3MW1hb3FzZHNraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="700" height="400"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Piotr Bednarski</h1>
 <h3 align="center">A Full-Stack Developer from Poland.</h3>
 
