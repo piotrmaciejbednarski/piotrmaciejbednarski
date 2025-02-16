@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Piotr Bednarski</h1>
-<h3 align="center">A Full-Stack Developer from Poland.</h3>
 
 - 🔭 I’m currently working on [LogicGates](https://github.com/piotrmaciejbednarski/LogicGates)
 
