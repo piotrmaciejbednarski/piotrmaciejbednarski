@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piotr Bednarski</h1>
 
-- 🔭 I’m currently working on [LogicGates](https://github.com/piotrmaciejbednarski/LogicGates)
-
-- 👯 I’m looking to collaborate on [React](https://github.com/facebook/react)
-
-- 📝 I regularly write articles on [https://dev.to/piotrbednarski](https://dev.to/piotrbednarski)
-
 - 📫 How to reach me **piotr.maciej.bednarski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
